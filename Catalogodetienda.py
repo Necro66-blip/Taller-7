@@ -63,7 +63,7 @@ while True:
             }
             print(f"¡Producto '{nombre}' registrado con éxito!")
         except ValueError:
-            print("Error en los datos numéricos. Intente de nuevo.")
+            print("Error en los datos numéricos. Por favor intentelo de nuevo.")
             
     elif opcion == "4":
         
