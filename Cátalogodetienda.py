@@ -1,4 +1,4 @@
-catalogo = {
+cátalogo = {
     "P01": {"nombre": "Cuaderno argollado", "precio": 6500, "stock": 20},
     "P02": {"nombre": "Caja de boligrafos", "precio": 18000, "stock": 12},
     "P03": {"nombre": "Paquete de papel higienico", "precio": 15000, "stock": 8}
