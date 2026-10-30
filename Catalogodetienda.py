@@ -7,7 +7,7 @@ catalogo = {
 while True:
     print("\n--- Cátalogo de tienda ---")
     print("1. Buscar producto")
-    print("2. Ingresar existencias (Aumentar stock)")
+    print("2. Ingrese la existencias (Solo si desea aumentar el stock)")
     print("3. Registrar nuevo producto")
     print("4. Calcular valor total del inventario")
     print("5. Salir")
