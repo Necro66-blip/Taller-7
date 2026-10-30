@@ -78,4 +78,4 @@ while True:
     elif opcion == "5":
         break
     else:
-        print("Opción no válida. Por favor intentenlo de nuevo.")
+        print("Opción no válida. Por favor intentelo de nuevo.")
